@@ -18,10 +18,10 @@ Desde la perspectiva de la ingeniería biomédica, el estudio de estas máquinas
 
 ##  2. Objetivos
 
-### ✔ Objetivo general
+###  Objetivo general
 Familiarizar al estudiante con los componentes, funcionamiento y mantenimiento de una máquina de anestesia.
 
-### ✔ Objetivos específicos
+###  Objetivos específicos
 - Identificar las partes principales de la máquina WATO EX-20  
 - Comprender su funcionamiento  
 - Reconocer la importancia del mantenimiento  
@@ -80,7 +80,9 @@ El conocimiento detallado de estos sistemas es fundamental para asegurar su corr
 
 ##  4. Parte A
 
-### a) Tipos de anestesia
+### a. ¿Cuántos y cuáles son los tipos de anestesia que comúnmente se aplican durante una cirugía? Explique cada uno.
+
+a) Tipos de anestesia
 
 - **General**: pérdida total de conciencia  
 - **Regional**: bloquea una zona del cuerpo  
@@ -88,7 +90,9 @@ El conocimiento detallado de estos sistemas es fundamental para asegurar su corr
 
 ---
 
-### b) Gases utilizados
+### b. ¿Con cuáles gases trabaja una máquina de anestesia y qué función cumple cada uno? ¿Cuáles de ellos se incorporan a la máquina mediantesistema de alta presión?
+
+  Gases utilizados
 
 - Oxígeno (O₂) → función vital  
 - Óxido nitroso (N₂O) → analgésico  
@@ -99,7 +103,9 @@ El conocimiento detallado de estos sistemas es fundamental para asegurar su corr
 
 ---
 
-### c) Sistema de respiración
+### c. ¿Qué es el sistema de respiración en la máquina de anestesia y cuál es su función? ¿Qué partes de este sistema podrían esterilizarse por medio de autoclave?
+
+ Sistema de respiración
 
 Permite el transporte de gases y eliminación de CO₂.
 
@@ -110,7 +116,9 @@ Permite el transporte de gases y eliminación de CO₂.
 
 ---
 
-### d) Submenús del ventilador
+### d. ¿Cuántos y cuáles son los submenús del ventilador? ¿En qué consiste cada uno? ¿En cuál de ellos se puede activar la pausa inspiratoria?
+
+Submenús del ventilador
 
 - Modos de ventilación  
 - Configuración de parámetros  
