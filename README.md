@@ -1,0 +1,1 @@
+# Informe-Lab-Instrumentaci-n-Reconocimiento-de-partes-y-funcionamiento-de-una-m-quina-de-anestesia
