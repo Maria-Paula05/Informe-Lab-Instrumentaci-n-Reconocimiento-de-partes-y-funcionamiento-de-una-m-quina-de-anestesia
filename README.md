@@ -1,10 +1,10 @@
-# 🧪 Informe de Laboratorio  
+# Informe de Laboratorio  
 ## Instrumentación Biomédica y Biosensores  
 ### Reconocimiento de partes y funcionamiento de una máquina de anestesia  
 
 ---
 
-## 🔵 1. Introducción
+##  1. Introducción
 
 Las máquinas de anestesia son equipos fundamentales en entornos quirúrgicos, ya que permiten mantener al paciente en un estado controlado de inconsciencia mientras se garantizan funciones vitales como la oxigenación y ventilación. Estas máquinas mezclan gases anestésicos en proporciones precisas, reduciendo riesgos como sobredosis o insuficiencia de anestesia.
 
@@ -12,7 +12,7 @@ El conocimiento de su funcionamiento es esencial para el ingeniero biomédico, y
 
 ---
 
-## 🔵 2. Objetivos
+##  2. Objetivos
 
 ### ✔ Objetivo general
 Familiarizar al estudiante con los componentes, funcionamiento y mantenimiento de una máquina de anestesia.
@@ -24,7 +24,7 @@ Familiarizar al estudiante con los componentes, funcionamiento y mantenimiento d
 
 ---
 
-## 🔵 3. Marco Teórico
+##  3. Marco Teórico
 
 Una máquina de anestesia cumple funciones como:
 
@@ -35,7 +35,7 @@ Una máquina de anestesia cumple funciones como:
 
 ---
 
-## 🔵 4. Parte A
+##  4. Parte A
 
 ### a) Tipos de anestesia
 
@@ -76,7 +76,7 @@ Permite el transporte de gases y eliminación de CO₂.
 
 ---
 
-## 🔵 5. Parte B
+##  5. Parte B
 
 ### ✔ Partes de la máquina
 
@@ -106,7 +106,7 @@ Evita contaminación de gases
 
 ---
 
-## 🔵 6. Procedimiento
+##  6. Procedimiento
 
 1. Observación de la máquina WATO EX-20  
 2. Identificación de componentes  
@@ -115,7 +115,7 @@ Evita contaminación de gases
 
 ---
 
-## 🔵 7. Resultados
+##  7. Resultados
 
 - Identificación de módulos principales  
 - Comprensión del funcionamiento  
@@ -123,7 +123,7 @@ Evita contaminación de gases
 
 ---
 
-## 🔵 8. Análisis de Resultados
+##  8. Análisis de Resultados
 
 ### ✔ Fallas comunes
 
@@ -141,13 +141,13 @@ Evita contaminación de gases
 
 ---
 
-## 🔵 9. Conclusiones
+## 9. Conclusiones
 
 La práctica permitió comprender la importancia de la máquina de anestesia en procedimientos clínicos. Se evidenció que muchas fallas se deben a errores humanos o falta de mantenimiento, resaltando la importancia del ingeniero biomédico en la seguridad del paciente.
 
 ---
 
-## 🔵 10. Preguntas de Discusión
+##  10. Preguntas de Discusión
 
 **1. Anestésicos más usados:**
 - Sevoflurano  
@@ -161,7 +161,7 @@ La práctica permitió comprender la importancia de la máquina de anestesia en 
 
 ---
 
-## 🔵 11. Bibliografía
+##  11. Bibliografía
 
 - Dosch, *The Anesthesia Machine*  
 - Sherwin & Eisenkraft (2020)  
@@ -169,4 +169,3 @@ La práctica permitió comprender la importancia de la máquina de anestesia en 
 
 ---
 
-## 🚀 Estructura del repositorio
