@@ -463,9 +463,9 @@ Figura 1: Maquina de anestesia.
 Figura 2:Bolsa de reinhalación de maquina de anestesia.
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/0aeaef07-3eb3-4aa6-baf8-f40e8b6f4734" />
-Figura 3:
+Figura 3:Absorbedor de dióxido de carbono (CO₂
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/9f5fa3ca-7594-4d73-b239-a64b18432209" />
-Figura 4:
+Figura 4:Recipiente recolector de condensados
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/0f56d2b8-c22c-47cc-a58d-e5f2aea2d4a5" />
 Figura 5:
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/079342e0-53df-4975-9da2-6e67dd4e1136" />
@@ -476,31 +476,94 @@ Figura 7:
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/c3fd781b-d6ef-46c3-afb1-9b69d0439780" />
 Figura 8:Puertos de gases médicos.
 
-- **Vaporizador:** convierte anestésico líquido en gas  
-- **Válvula APL:** regula la presión  
-- **Absorbedor de CO₂:** elimina dióxido de carbono  
-- **Fuelle:** permite ventilación mecánica  
+---
+### Preguntas
+
+### 1. Si el ventilador muestra “batería en uso” y el paciente está conectado, ¿qué hacer?
+
+Cuando aparece el mensaje **“batería en uso”**, significa que la máquina está funcionando con su batería interna debido a una falla o desconexión de la fuente eléctrica principal.
+
+####  Acción a ejecutar:
+1. **Verificar inmediatamente la conexión a la red eléctrica**  
+2. **Restablecer la alimentación eléctrica lo antes posible**  
+3. Confirmar que la batería tenga suficiente carga  
+4. Mantener vigilancia continua del paciente  
+
+#### Importancia:
+La batería es un sistema de respaldo temporal. Si se agota, el ventilador podría dejar de funcionar, poniendo en riesgo la ventilación del paciente.
 
 ---
 
-### ✔ Preguntas
+###  2. ¿Con qué frecuencia debe reemplazarse el absorbedor de CO₂?
 
-**2. Batería en uso:**  
-Conectar a la red eléctrica inmediatamente  
+El recipiente de cal sodada no se cambia por tiempo fijo, sino por condición de uso.
 
-**3. Recambio de CO₂:**  
-Cuando el indicador de saturación lo indique  
+####  Debe reemplazarse cuando:
+- Hay **cambio de color** del indicador químico  
+- Se observa **aumento de CO₂ en el paciente**  
+- Se ha utilizado durante largos periodos (según fabricante)  
 
-**4. Fugas:**  
-Prueba de presión en el cilindro  
+####  Frecuencia aproximada:
+- Entre **6 y 12 horas de uso continuo**, dependiendo del flujo y paciente  
 
-**5. Sensor de O₂:**  
-Afecta la precisión del flujo  
-
-**6. Presión negativa:**  
-Evita contaminación de gases  
+####  Importancia:
+Un absorbedor saturado no elimina CO₂, lo que puede causar **hipercapnia**.
 
 ---
+
+###  3. Procedimiento para verificar fugas en el cilindro de alta presión
+
+####  Pasos:
+1. Cerrar el flujo de gases  
+2. Abrir el cilindro lentamente  
+3. Observar el manómetro (presión)  
+4. Cerrar el cilindro  
+5. Monitorear si la presión disminuye con el tiempo  
+
+####  Interpretación:
+- Si la presión se mantiene →  no hay fuga  
+- Si la presión disminuye →  hay fuga  
+
+####  Adicional:
+- Aplicar solución jabonosa en conexiones para detectar burbujas  
+
+---
+
+###  4. ¿Influye el sensor de O₂ en la prueba del sistema de flujo?
+
+####  Sí, influye directamente
+
+El sensor de oxígeno mide la **concentración real de O₂ en la mezcla gaseosa**.
+
+####  Con sensor:
+- Se verifica que la mezcla sea correcta  
+- Se detectan errores en el flujo  
+- Mayor seguridad  
+
+####  Sin sensor:
+- No se puede confirmar la concentración real  
+- Existe riesgo de administrar mezclas hipóxicas  
+- La prueba es incompleta  
+
+---
+
+###  5. ¿Para qué se requiere el sistema de presión negativa?
+
+El sistema de presión negativa se utiliza principalmente en la evacuación de gases anestésicos.
+
+####  Función:
+- Extraer gases residuales del sistema  
+- Evitar que se acumulen en el ambiente  
+
+####  ¿Qué gases elimina?
+- Gases anestésicos sobrantes  
+- CO₂ residual  
+
+####  Importancia:
+- Protege al personal médico  
+- Reduce contaminación ambiental  
+- Previene exposición crónica a anestésicos  
+
 
 ##  6. Procedimiento
 
@@ -558,10 +621,24 @@ La práctica permitió comprender la importancia de la máquina de anestesia en 
 ---
 
 ##  11. Bibliografía
+## 🔵 Referencias (APA 7)
 
-- Dosch, *The Anesthesia Machine*  
-- Sherwin & Eisenkraft (2020)  
-- Dondelinger (2004)  
+- :contentReference[oaicite:0]{index=0}, :contentReference[oaicite:1]{index=1}, & :contentReference[oaicite:2]{index=2}. (2018). *Morgan & Mikhail’s clinical anesthesiology* (6th ed.). McGraw-Hill Education.  
+
+- :contentReference[oaicite:3]{index=3}, & :contentReference[oaicite:4]{index=4}. (2014). *Understanding anesthesia equipment* (5th ed.). Lippincott Williams & Wilkins.  
+
+- :contentReference[oaicite:5]{index=5}. (2015). *Miller’s anesthesia* (8th ed.). Elsevier.  
+
+- :contentReference[oaicite:6]{index=6}. (2009). *WHO guidelines for safe surgery*.  
+
+- :contentReference[oaicite:7]{index=7}. (2010). *Technical specifications for oxygen concentrators*. WHO Press.  
+
+- :contentReference[oaicite:8]{index=8}. (2020). *Standards for basic anesthetic monitoring*.  
+
+- :contentReference[oaicite:9]{index=9}. (n.d.). *WATO EX-20 anesthesia machine: Operator’s manual*.  
+
+- :contentReference[oaicite:10]{index=10}. (n.d.). *Anesthesia system user manuals*.  
+ 
 
 ---
 
