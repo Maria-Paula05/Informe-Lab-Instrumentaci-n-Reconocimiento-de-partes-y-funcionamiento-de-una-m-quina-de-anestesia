@@ -82,54 +82,399 @@ El conocimiento detallado de estos sistemas es fundamental para asegurar su corr
 
 ### a. ¿Cuántos y cuáles son los tipos de anestesia que comúnmente se aplican durante una cirugía? Explique cada uno.
 
-a) Tipos de anestesia
 
-- **General**: pérdida total de conciencia  
-- **Regional**: bloquea una zona del cuerpo  
-- **Local**: actúa en una zona específica  
+Durante los procedimientos quirúrgicos se emplean principalmente **tres tipos de anestesia**: anestesia general, anestesia regional y anestesia local. 
+Cada uno presenta características específicas en cuanto a su mecanismo de acción, alcance fisiológico y aplicaciones en el ámbito clínico.
 
 ---
 
-### b. ¿Con cuáles gases trabaja una máquina de anestesia y qué función cumple cada uno? ¿Cuáles de ellos se incorporan a la máquina mediantesistema de alta presión?
+##  1. Anestesia general
 
-  Gases utilizados
+La anestesia general es un estado farmacológicamente inducido que produce **pérdida reversible de la conciencia**, junto con analgesia, amnesia y relajación muscular. Este tipo de anestesia actúa sobre el sistema nervioso central mediante agentes inhalatorios o intravenosos.
 
-- Oxígeno (O₂) → función vital  
-- Óxido nitroso (N₂O) → analgésico  
-- Aire comprimido → mezcla  
-- Anestésicos volátiles (isoflurano, sevoflurano)
+Desde el punto de vista fisiológico, los anestésicos generales actúan sobre receptores neuronales como los GABA\(_A\), aumentando la inhibición sináptica y reduciendo la excitabilidad neuronal. Esto permite que el paciente no perciba estímulos dolorosos ni tenga respuesta consciente durante la cirugía.
 
-**Alta presión:** O₂ y N₂O (cilindros)
+Además, suele requerir ventilación asistida debido a la depresión del sistema respiratorio.
+
+### Aplicaciones clínicas
+- Cirugías mayores (abdominales, cardíacas, neurológicas).
+- Procedimientos prolongados.
+- Intervenciones que requieren inmovilidad total. 
+
+---
+
+##  2. Anestesia regional
+
+La anestesia regional consiste en el **bloqueo reversible de la conducción nerviosa** en una región específica del cuerpo, sin pérdida de la conciencia. 
+Esta se logra mediante anestésicos locales aplicados cerca de nervios o plexos nerviosos.
+
+###  Tipos más comunes:
+- **Epidural:** anestesia aplicada en el espacio epidural la cual es usada principalmente en obstetricia.
+- **Espinal (raquídea):** esta es una técnica anestesica regional que inyecta anestésico local directamente en el líquido cefalorraquídeo (espacio subaracnoideo) para bloquear la sensibilidad y el movimiento en la parte inferior del cuerpo.Usada principalmente en aparatyos reproductores, vias urinarias y en general, parte inferior del cuerpo.
+- **Bloqueos periféricos:**:técnicas de anestesia regional que inyectan anestésicos locales cerca de nervios específicos para adormecer extremidades o áreas localizadas, siendo útiles para cirugía y control del dolor postoperatorio. Se clasifican principalmente por la ubicación del nervio (plexos, nervios troncales) y pueden ser únicos o continuos (catéter).
+Algunas aplicaciones de este puede ser bloqueo al plexo braquial para cirugía de hombro, brazo , antebrazo o codo según el nervio que se bloquee:
+Interescalénico: Hombro y brazo superior.
+Supraclavicular:Brazo, codo y mano ("bloqueo espinal del miembro superior").
+Infraclavicular/Axilar: Antebrazo y mano.
+
+El mecanismo de acción consiste en el bloqueo de los canales de sodio dependientes de voltaje, impidiendo la propagación del potencial de acción.
+
+### Ventajas
+- Menor depresión respiratoria  
+- Recuperación más rápida  
+- Menor uso de anestésicos sistémicos  
+
+---
+
+##  3. Anestesia local
+
+La anestesia local produce la **pérdida de sensibilidad en una zona específica del cuerpo**, sin afectar la conciencia del paciente. Se administra directamente en el área de intervención.
+
+Su mecanismo de acción es el bloqueo de canales de sodio en las fibras nerviosas, impidiendo la transmisión del dolor.
+
+###  Aplicaciones clínicas
+- Suturas  
+- Biopsias  
+- Procedimientos odontológicos  
+- Dermatología  
+
+---
+
+## Comparación general
+
+| Tipo de anestesia | Conciencia | Alcance | Uso principal |
+|------------------|-----------|--------|--------------|
+| General | No | Todo el cuerpo | Cirugías mayores |
+| Regional | Sí | Región específica | Ortopedia, partos |
+| Local | Sí | Zona pequeña | Procedimientos menores |
+
+---
+
+### b. ¿Con cuáles gases trabaja una máquina de anestesia y qué función cumple cada uno? ¿Cuáles de ellos se incorporan a la máquina mediante sistema de alta presión?
+
+Las máquinas de anestesia utilizan principalmente una combinación de gases médicos que cumplen funciones específicas en la administración de anestesia y en el mantenimiento de las funciones fisiológicas del paciente.
+
+---
+
+##  1. Oxígeno (O₂)
+
+El oxígeno es el gas más importante dentro del sistema, ya que es esencial para el metabolismo celular y la vida.
+
+### Función
+- Mantener la oxigenación de los tejidos (respiración celular)  
+- Prevenir hipoxia durante la anestesia  
+- Servir como gas base en la mezcla anestésica  
+
+###  Porcentaje de uso
+- En condiciones normales: **21% (aire ambiente)**  
+- En anestesia: generalmente entre **30% y 100%**, dependiendo del paciente  
+- Nunca debe ser menor a **21%**, ya que se produciría hipoxia  
+
+###  Proceso dentro de la máquina
+1. El oxígeno ingresa desde:
+   - cilindro (alta presión ≈ 2000 psi)  
+   - red hospitalaria  
+
+2. Pasa por:
+   - regulador de presión  
+   - flujómetro (control de caudal)  
+
+3. Se mezcla con otros gases (aire, N₂O)  
+
+4. Pasa al vaporizador (si hay anestésico)  
+
+5. Llega al paciente mediante el sistema respiratorio  
+
+### ✔ Seguridad
+- Sistemas anti-hipoxia garantizan que el O₂ nunca sea inferior al mínimo requerido  
+- Alarmas detectan caídas en la concentración  
+
+---
+
+##  2. Óxido nitroso (N₂O)
+
+Es un gas anestésico con propiedades analgésicas.
+
+###  Función
+- Disminuir el dolor  
+- Reducir la cantidad de anestésico volátil necesario  
+- Aumentar el efecto anestésico  
+
+###  Porcentaje de uso
+- Usualmente entre **30% y 70%**  
+- Siempre combinado con oxígeno (nunca se usa solo)  
+
+### Proceso
+- Ingresa desde cilindro (alta presión ≈ 750 psi)  
+- Se regula su flujo  
+- Se mezcla con oxígeno antes de llegar al paciente  
+
+---
+
+## 3. Aire comprimido
+
+Es una mezcla de gases similar al aire atmosférico.
+
+###  Función
+- Ajustar la concentración de oxígeno  
+- Evitar toxicidad por oxígeno puro  
+- Mantener condiciones fisiológicas normales  
+
+###  Porcentaje
+- Contiene aproximadamente:
+  - 21% O₂  
+  - 78% N₂  
+
+---
+
+##  4. Agentes anestésicos volátiles
+
+Son líquidos que se vaporizan (ej: sevoflurano, isoflurano).
+
+### Función
+- Inducir y mantener anestesia general  
+- Generar inconsciencia y relajación  
+
+###  Proceso
+- El gas pasa por el vaporizador  
+- Se mezcla con el flujo de gases  
+- Se administra en concentraciones controladas  
+
+---
+
+##  Gases que se incorporan mediante sistema de alta presión
+
+Los gases que ingresan mediante cilindros a alta presión son:
+
+- **Oxígeno (O₂)** → ≈ 2000 psi  
+- **Óxido nitroso (N₂O)** → ≈ 750 psi  
+
+Estos requieren reguladores para reducir la presión antes de su uso.
 
 ---
 
 ### c. ¿Qué es el sistema de respiración en la máquina de anestesia y cuál es su función? ¿Qué partes de este sistema podrían esterilizarse por medio de autoclave?
 
- Sistema de respiración
+El sistema de respiración es el conjunto de componentes de la máquina de anestesia encargado de **transportar la mezcla de gases (oxígeno, aire y anestésicos)** desde la máquina hasta el paciente, y posteriormente permitir la **eliminación del dióxido de carbono (CO₂)** producido durante la respiración.
 
-Permite el transporte de gases y eliminación de CO₂.
+---
 
-**Partes esterilizables:**
-- Mangueras  
-- Válvulas  
-- Bolsa respiratoria  
+##  ¿Cuál es su función?
+
+Su función principal es garantizar que el paciente:
+
+1. Reciba la mezcla adecuada de gases anestésicos  
+2. Pueda realizar el intercambio gaseoso (O₂ entra / CO₂ sale)  
+3. Mantenga una ventilación segura durante toda la cirugía  
+
+---
+
+##  Funcionamiento paso a paso
+
+### 1. Entrada de gases
+La mezcla de gases (O₂, N₂O, aire y anestésico) sale de la máquina y entra al sistema respiratorio.
+
+---
+
+### 2. Inspiración (entrada al paciente)
+- El gas pasa por las **válvulas unidireccionales**  
+- Llega al paciente a través del circuito respiratorio  
+- El paciente inhala la mezcla  
+
+---
+
+### 3. Espiración (salida del paciente)
+- El paciente exhala CO₂  
+- El gas regresa por otra válvula unidireccional  
+- Se evita que el gas exhalado vuelva directamente sin control  
+
+---
+
+### 4. Eliminación de CO₂
+- El gas pasa por el **absorbedor de CO₂ (cal sodada)**  
+- Se elimina el dióxido de carbono  
+- El gas puede reutilizarse en sistemas cerrados  
+
+---
+
+### 5. Control de presión
+- La **válvula APL** regula la presión del sistema  
+- Evita sobrepresión en los pulmones  
+
+---
+
+### 6. Bolsa reservorio / ventilador
+- Permite almacenar gas  
+- Ayuda a la ventilación manual o mecánica  
+
+---
+
+##  Componentes principales del sistema
+
+- Circuito respiratorio (tubos)  
+- Válvulas unidireccionales  
+- Bolsa reservorio  
+- Absorbedor de CO₂  
+- Válvula APL  
+
+---
+
+##  Partes que pueden esterilizarse en autoclave
+
+Las partes que están en contacto directo con el paciente o con los gases respirados deben esterilizarse.
+
+### Componentes esterilizables:
+
+- **Mangueras o circuitos respiratorios**  
+- **Conectores y piezas plásticas desmontables**  
+- **Bolsa reservorio (según material)**  
+- **Válvulas desmontables**  
+
+---
+
+### Componentes NO esterilizables en autoclave:
+
+- Sensores electrónicos  
+- Partes internas de la máquina  
+- Absorbedor de CO₂ (solo se reemplaza el material)  
+
+---
+
+## Importancia del sistema de respiración
+
+Este sistema es crítico porque:
+
+- Garantiza la oxigenación del paciente  
+- Evita acumulación de CO₂ (hipercapnia)  
+- Permite ventilación controlada  
+- Reduce riesgos durante la anestesia  
 
 ---
 
 ### d. ¿Cuántos y cuáles son los submenús del ventilador? ¿En qué consiste cada uno? ¿En cuál de ellos se puede activar la pausa inspiratoria?
 
-Submenús del ventilador
+##  1. Submenú de modos de ventilación
 
-- Modos de ventilación  
-- Configuración de parámetros  
-- Alarmas  
-- Monitoreo  
+En este submenú se define cómo el ventilador entrega el gas al paciente. Los modos principales son:
+
+###  Ventilación controlada por volumen (VCV)
+En este modo, el ventilador garantiza que el paciente reciba un **volumen fijo de aire (volumen tidal)** en cada respiración.
+
+- El volumen es constante  
+- La presión puede variar dependiendo de la resistencia pulmonar  
+- Es útil cuando se necesita asegurar una ventilación estable  
+
+ Ejemplo: si se configuran 500 mL, el paciente recibirá exactamente ese volumen en cada ciclo.
 
 ---
+
+###  Ventilación controlada por presión (PCV)
+En este modo, el ventilador mantiene una **presión constante** durante la inspiración.
+
+- La presión es fija  
+- El volumen varía según la mecánica pulmonar  
+- Reduce el riesgo de daño pulmonar por alta presión  
+
+ Ejemplo: si se fija una presión de 20 cmH₂O, el volumen cambiará dependiendo de los pulmones del paciente.
+
+---
+
+###  Ventilación asistida
+El ventilador ayuda al paciente cuando este intenta respirar por sí mismo.
+
+- El paciente inicia la respiración  
+- El ventilador la apoya con presión o volumen  
+- Mejora la comodidad del paciente  
+
+ Se usa cuando el paciente aún tiene capacidad respiratoria parcial.
+
+---
+
+###  Ventilación espontánea
+El paciente respira por sí mismo sin intervención activa del ventilador.
+
+- No hay control directo del ventilador  
+- Solo se suministra la mezcla de gases  
+- Se usa en fases de recuperación  
+
+---
+
+##  2. Submenú de parámetros ventilatorios
+
+Permite ajustar las variables que controlan la respiración:
+
+- **Volumen tidal (VT):** cantidad de aire por respiración  
+- **Frecuencia respiratoria (FR):** número de respiraciones por minuto  
+- **Relación I:E:** tiempo de inspiración vs espiración  
+- **PEEP:** presión que se mantiene al final de la espiración  
+
+ Estos parámetros se ajustan según el estado del paciente.
+
+---
+
+##  3. Submenú de monitoreo
+
+Muestra en tiempo real el estado del sistema:
+
+- Presión en la vía aérea  
+- Volumen respiratorio  
+- Flujo de aire  
+- Curvas (gráficas)  
+
+ Permite detectar problemas como obstrucciones o fugas.
+
+---
+
+##  4. Submenú de alarmas
+
+Configura límites de seguridad:
+
+- Presión alta o baja  
+- Bajo volumen  
+- Desconexión  
+- Apnea  
+
+ Si algo sale de rango, el equipo alerta inmediatamente.
+
+---
+
+##  5. Submenú de funciones avanzadas
+
+Incluye funciones adicionales del ventilador.
+
+###  Pausa inspiratoria
+Mantiene el aire dentro de los pulmones por un breve tiempo al final de la inspiración.
+
+####  ¿Para qué sirve?
+- Mejora el intercambio de gases  
+- Permite medir la presión alveolar (plateau)  
+- Evalúa la mecánica pulmonar  
+
+ Se activa en este submenú.
 
 ##  5. Parte B
 
 ### ✔ Partes de la máquina
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/d59ece78-c720-4f4e-83bc-cd592111411a" />
+Figura 1: Maquina de anestesia.
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/59ae598d-1088-442a-a0f5-e4827f5b46e0" />
+Figura 2:Bolsa de reinhalación de maquina de anestesia.
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/0aeaef07-3eb3-4aa6-baf8-f40e8b6f4734" />
+Figura 3:
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/9f5fa3ca-7594-4d73-b239-a64b18432209" />
+Figura 4:
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/0f56d2b8-c22c-47cc-a58d-e5f2aea2d4a5" />
+Figura 5:
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/079342e0-53df-4975-9da2-6e67dd4e1136" />
+Figura 6:
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/9134407c-f8c6-487d-9038-c5c78d619480" />
+Figura 7:
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/c3fd781b-d6ef-46c3-afb1-9b69d0439780" />
+Figura 8:Puertos de gases médicos.
 
 - **Vaporizador:** convierte anestésico líquido en gas  
 - **Válvula APL:** regula la presión  
