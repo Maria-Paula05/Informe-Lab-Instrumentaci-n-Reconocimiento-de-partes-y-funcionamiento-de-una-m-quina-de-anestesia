@@ -467,14 +467,16 @@ Figura 3:Absorbedor de dióxido de carbono (CO₂
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9f5fa3ca-7594-4d73-b239-a64b18432209" />
 Figura 4:Recipiente recolector de condensados
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0f56d2b8-c22c-47cc-a58d-e5f2aea2d4a5" />
-Figura 5:
+Figura 5:Panel de flujómetros (rotámetros)
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/079342e0-53df-4975-9da2-6e67dd4e1136" />
-Figura 6:
+Figura 6:Mascarilla de oxígeno/anestesia colocada en el paciente
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9134407c-f8c6-487d-9038-c5c78d619480" />
 Figura 7:
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c3fd781b-d6ef-46c3-afb1-9b69d0439780" />
 Figura 8:Puertos de gases médicos.
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9c8448b7-b425-4740-9598-a23a6b2d4edb" />
+Figura 9: Lugar donde irian vaporizadores.
 </p>
 ---
 ### Preguntas
