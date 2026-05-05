@@ -456,24 +456,24 @@ Mantiene el aire dentro de los pulmones por un breve tiempo al final de la inspi
 
 ### ✔ Partes de la máquina
 
-<img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/d59ece78-c720-4f4e-83bc-cd592111411a" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d59ece78-c720-4f4e-83bc-cd592111411a" />
 Figura 1: Maquina de anestesia.
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/59ae598d-1088-442a-a0f5-e4827f5b46e0" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/59ae598d-1088-442a-a0f5-e4827f5b46e0" />
 Figura 2:Bolsa de reinhalación de maquina de anestesia.
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/0aeaef07-3eb3-4aa6-baf8-f40e8b6f4734" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0aeaef07-3eb3-4aa6-baf8-f40e8b6f4734" />
 Figura 3:Absorbedor de dióxido de carbono (CO₂
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/9f5fa3ca-7594-4d73-b239-a64b18432209" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9f5fa3ca-7594-4d73-b239-a64b18432209" />
 Figura 4:Recipiente recolector de condensados
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/0f56d2b8-c22c-47cc-a58d-e5f2aea2d4a5" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0f56d2b8-c22c-47cc-a58d-e5f2aea2d4a5" />
 Figura 5:
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/079342e0-53df-4975-9da2-6e67dd4e1136" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/079342e0-53df-4975-9da2-6e67dd4e1136" />
 Figura 6:
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/9134407c-f8c6-487d-9038-c5c78d619480" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9134407c-f8c6-487d-9038-c5c78d619480" />
 Figura 7:
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/c3fd781b-d6ef-46c3-afb1-9b69d0439780" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c3fd781b-d6ef-46c3-afb1-9b69d0439780" />
 Figura 8:Puertos de gases médicos.
 
 ---
