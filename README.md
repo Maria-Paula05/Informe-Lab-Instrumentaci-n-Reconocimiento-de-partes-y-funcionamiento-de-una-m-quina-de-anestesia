@@ -172,12 +172,12 @@ El oxígeno es el gas más importante dentro del sistema, ya que es esencial par
 
 ###  Proceso dentro de la máquina
 1. El oxígeno ingresa desde:
-   - cilindro (alta presión ≈ 2000 psi)  
-   - red hospitalaria  
+   - Cilindro (alta presión ≈ 2000 psi)  
+   - Red hospitalaria  
 
 2. Pasa por:
-   - regulador de presión  
-   - flujómetro (control de caudal)  
+   - Regulador de presión  
+   - Flujómetro (control de caudal)  
 
 3. Se mezcla con otros gases (aire, N₂O)  
 
@@ -185,7 +185,7 @@ El oxígeno es el gas más importante dentro del sistema, ya que es esencial par
 
 5. Llega al paciente mediante el sistema respiratorio  
 
-### ✔ Seguridad
+### Seguridad
 - Sistemas anti-hipoxia garantizan que el O₂ nunca sea inferior al mínimo requerido  
 - Alarmas detectan caídas en la concentración  
 
