@@ -158,7 +158,7 @@ Las máquinas de anestesia utilizan principalmente una combinación de gases mé
 
 ##  1. Oxígeno (O₂)
 
-El oxígeno es el gas más importante dentro del sistema, ya que es esencial para el metabolismo celular y la vida.
+El oxígeno es el gas más importante dentro del sistema, ya que es esencial para el metabolismo celular y la perfusión de los tejidos.
 
 ### Función
 - Mantener la oxigenación de los tejidos (respiración celular)  
