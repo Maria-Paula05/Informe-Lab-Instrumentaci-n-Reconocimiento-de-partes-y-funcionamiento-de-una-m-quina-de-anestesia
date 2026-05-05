@@ -455,8 +455,8 @@ Mantiene el aire dentro de los pulmones por un breve tiempo al final de la inspi
 ##  5. Parte B
 
 ### ✔ Partes de la máquina
-
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d59ece78-c720-4f4e-83bc-cd592111411a" />
+<p align="center">
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d59ece78-c720-4f4e-83bc-cd592111411a" />    
 Figura 1: Maquina de anestesia.
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/59ae598d-1088-442a-a0f5-e4827f5b46e0" />
@@ -475,7 +475,7 @@ Figura 7:
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c3fd781b-d6ef-46c3-afb1-9b69d0439780" />
 Figura 8:Puertos de gases médicos.
-
+</p>
 ---
 ### Preguntas
 
