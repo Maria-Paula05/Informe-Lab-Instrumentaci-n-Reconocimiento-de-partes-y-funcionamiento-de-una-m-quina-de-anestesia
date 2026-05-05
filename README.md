@@ -1,5 +1,5 @@
-# Informe de Laboratorio  
-## Instrumentación Biomédica y Biosensores  
+# Informe de Laboratorio   Instrumentación Biomédica y Biosensores 
+Jhonatan David Guevara, Juan Pablo Díaz, María Paula Fernández.
 ### Reconocimiento de partes y funcionamiento de una máquina de anestesia  
 
 ---
@@ -454,30 +454,111 @@ Mantiene el aire dentro de los pulmones por un breve tiempo al final de la inspi
 
 ##  5. Parte B
 
-### ✔ Partes de la máquina
+##  Identificación de componentes de la máquina de anestesia
+
+---
+
 <p align="center">
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d59ece78-c720-4f4e-83bc-cd592111411a" />    
-Figura 1: Maquina de anestesia.
-
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/59ae598d-1088-442a-a0f5-e4827f5b46e0" />
-Figura 2:Bolsa de reinhalación de maquina de anestesia.
-
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0aeaef07-3eb3-4aa6-baf8-f40e8b6f4734" />
-Figura 3:Absorbedor de dióxido de carbono (CO₂
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9f5fa3ca-7594-4d73-b239-a64b18432209" />
-Figura 4:Recipiente recolector de condensados
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0f56d2b8-c22c-47cc-a58d-e5f2aea2d4a5" />
-Figura 5:Panel de flujómetros (rotámetros)
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/079342e0-53df-4975-9da2-6e67dd4e1136" />
-Figura 6:Mascarilla de oxígeno/anestesia colocada en el paciente
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9134407c-f8c6-487d-9038-c5c78d619480" />
-Figura 7:
-
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c3fd781b-d6ef-46c3-afb1-9b69d0439780" />
-Figura 8:Puertos de gases médicos.
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9c8448b7-b425-4740-9598-a23a6b2d4edb" />
-Figura 9: Lugar donde irian vaporizadores.
+  <img src="https://github.com/user-attachments/assets/d59ece78-c720-4f4e-83bc-cd592111411a" width="350">
 </p>
+<p align="center"><em>Figura 1. Máquina de anestesia utilizada en el laboratorio.</em></p>
+
+**Función:**  
+Permite administrar gases anestésicos y controlar la ventilación del paciente durante procedimientos quirúrgicos.
+
+**Explicación:**  
+Integra sistemas de suministro de gases, ventilación, monitoreo y seguridad que trabajan conjuntamente para mantener condiciones fisiológicas estables en el paciente.
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/59ae598d-1088-442a-a0f5-e4827f5b46e0" width="300">
+</p>
+<p align="center"><em>Figura 2. Bolsa de reinhalación del sistema respiratorio.</em></p>
+
+**Función:**  
+Almacenar temporalmente la mezcla de gases y permitir la ventilación manual.
+
+**Explicación:**  
+La bolsa se infla y desinfla con la respiración del paciente o con la ventilación asistida, facilitando el control del volumen de aire suministrado.
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0aeaef07-3eb3-4aa6-baf8-f40e8b6f4734" width="300">
+</p>
+<p align="center"><em>Figura 3. Absorbedor de dióxido de carbono (CO₂) con cal sodada.</em></p>
+
+**Función:**  
+Eliminar el CO₂ del aire exhalado por el paciente.
+
+**Explicación:**  
+Contiene cal sodada que reacciona químicamente con el CO₂, permitiendo reutilizar los gases en sistemas cerrados y evitando la hipercapnia.
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9f5fa3ca-7594-4d73-b239-a64b18432209" width="300">
+</p>
+<p align="center"><em>Figura 4. Recipiente recolector de condensados del sistema respiratorio.</em></p>
+
+**Función:**  
+Recolectar el agua generada por la condensación en el circuito respiratorio.
+
+**Explicación:**  
+Evita que la humedad interfiera con el flujo de gases o regrese al paciente, garantizando un funcionamiento adecuado del sistema.
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0f56d2b8-c22c-47cc-a58d-e5f2aea2d4a5" width="300">
+</p>
+<p align="center"><em>Figura 5. Panel de flujómetros (rotámetros) para control de gases.</em></p>
+
+**Función:**  
+Regular y medir el flujo de los gases suministrados al paciente.
+
+**Explicación:**  
+Cada flujómetro controla un gas específico (oxígeno, aire o N₂O) y permite ajustar el caudal en litros por minuto para lograr la mezcla adecuada.
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/079342e0-53df-4975-9da2-6e67dd4e1136" width="300">
+</p>
+<p align="center"><em>Figura 6. Mascarilla de anestesia utilizada para la administración de gases.</em></p>
+
+**Función:**  
+Suministrar la mezcla de gases al paciente.
+
+**Explicación:**  
+Se adapta al rostro del paciente y permite la administración de oxígeno o anestésicos, además de facilitar la ventilación manual.
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c3fd781b-d6ef-46c3-afb1-9b69d0439780" width="300">
+</p>
+<p align="center"><em>Figura 7. Puertos de entrada de gases médicos (O₂, aire y N₂O).</em></p>
+
+**Función:**  
+Permitir el ingreso de gases desde la red hospitalaria o cilindros.
+
+**Explicación:**  
+Utilizan conexiones seguras y codificadas para evitar errores, garantizando el suministro correcto de cada gas al sistema.
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c8448b7-b425-4740-9598-a23a6b2d4edb" width="300">
+</p>
+<p align="center"><em>Figura 8. Compartimiento para la instalación de vaporizadores anestésicos.</em></p>
+
+**Función:**  
+Permitir la incorporación de vaporizadores al sistema.
+
+**Explicación:**  
+En este espacio se instalan dispositivos que convierten anestésicos líquidos en vapor, los cuales se mezclan con los gases para inducir anestesia.
 ---
 ### Preguntas
 
@@ -586,14 +667,14 @@ El sistema de presión negativa se utiliza principalmente en la evacuación de g
 
 ##  8. Análisis de Resultados
 
-### ✔ Fallas comunes
+###  Fallas comunes
 
 - Fugas de gas  
 - Sensores defectuosos  
 - Problemas de ventilación  
 - Error humano  
 
-### ✔ Subsistemas críticos
+###  Subsistemas críticos
 
 1. Sistema de gases  
 2. Ventilador  
@@ -621,26 +702,123 @@ La práctica permitió comprender la importancia de la máquina de anestesia en 
 - Interfaz más avanzada  
 
 ---
+##  6. Procedimiento
 
-##  11. Bibliografía
-## 🔵 Referencias (APA 7)
+Durante la práctica de laboratorio se llevó a cabo un análisis estructurado de la máquina de anestesia modelo WATO EX-20, con el objetivo de comprender su funcionamiento, identificar sus componentes principales y evaluar su importancia en la seguridad del paciente.
 
-- :contentReference[oaicite:0]{index=0}, :contentReference[oaicite:1]{index=1}, & :contentReference[oaicite:2]{index=2}. (2018). *Morgan & Mikhail’s clinical anesthesiology* (6th ed.). McGraw-Hill Education.  
+###  Etapas realizadas:
 
-- :contentReference[oaicite:3]{index=3}, & :contentReference[oaicite:4]{index=4}. (2014). *Understanding anesthesia equipment* (5th ed.). Lippincott Williams & Wilkins.  
+1. **Observación del equipo**
+   - Se realizó una inspección visual general de la máquina de anestesia, identificando su estructura, panel de control, sistema respiratorio y conexiones de gases.
+   - Se reconocieron los subsistemas principales: suministro de gases, ventilación, vaporización y monitoreo.
 
-- :contentReference[oaicite:5]{index=5}. (2015). *Miller’s anesthesia* (8th ed.). Elsevier.  
+2. **Identificación de componentes**
+   - Se analizaron elementos clave como flujómetros, absorbedor de CO₂, bolsa de reinhalación, ventilador (fuelle), puertos de gases y mascarilla.
+   - Se relacionó cada componente con su función dentro del sistema global.
 
-- :contentReference[oaicite:6]{index=6}. (2009). *WHO guidelines for safe surgery*.  
+3. **Revisión del manual técnico**
+   - Se consultó el manual del equipo para comprender parámetros de operación, modos de ventilación, alarmas y protocolos de seguridad.
+   - Se identificaron configuraciones recomendadas y límites operativos.
 
-- :contentReference[oaicite:7]{index=7}. (2010). *Technical specifications for oxygen concentrators*. WHO Press.  
-
-- :contentReference[oaicite:8]{index=8}. (2020). *Standards for basic anesthetic monitoring*.  
-
-- :contentReference[oaicite:9]{index=9}. (n.d.). *WATO EX-20 anesthesia machine: Operator’s manual*.  
-
-- :contentReference[oaicite:10]{index=10}. (n.d.). *Anesthesia system user manuals*.  
- 
+4. **Análisis del funcionamiento**
+   - Se estudió el flujo de gases desde la entrada hasta el paciente.
+   - Se analizó la interacción entre subsistemas (control de flujo, ventilación y eliminación de CO₂).
+   - Se evaluaron posibles fallas y mecanismos de seguridad.
 
 ---
 
+##  7. Resultados
+
+Como resultado de la práctica, se obtuvieron los siguientes hallazgos:
+
+- Se logró la **identificación completa de los módulos principales** de la máquina de anestesia.
+- Se comprendió el **flujo funcional del sistema**, desde el suministro de gases hasta la ventilación del paciente.
+- Se reconocieron los **principales modos de ventilación** y su aplicación clínica.
+- Se identificaron las **alarmas del sistema** y su importancia en la detección de fallas.
+- Se evidenció la relación entre los parámetros de control (flujo, presión, volumen) y la seguridad del paciente.
+
+---
+
+##  8. Análisis de Resultados
+
+El análisis permitió comprender que la máquina de anestesia es un sistema altamente dependiente de la correcta interacción entre sus subsistemas, donde pequeñas fallas pueden comprometer significativamente la seguridad del paciente.
+
+###  Fallas comunes identificadas
+
+- **Fugas de gas:** pueden generar pérdida de presión y mezcla incorrecta de gases, aumentando el riesgo de hipoxia.  
+- **Sensores defectuosos:** afectan la medición de variables críticas como concentración de O₂ o presión.  
+- **Problemas de ventilación:** fallas en el ventilador o en el circuito pueden comprometer el intercambio gaseoso.  
+- **Error humano:** configuraciones incorrectas o mala manipulación del equipo representan una de las principales causas de riesgo.
+
+---
+
+###  Subsistemas críticos
+
+1. **Sistema de gases**
+   - Responsable del suministro y mezcla de gases medicinales.
+   - Un fallo en este sistema puede generar mezclas peligrosas.
+
+2. **Ventilador**
+   - Controla la respiración del paciente.
+   - Es fundamental en anestesia general.
+
+3. **Sensores**
+   - Permiten el monitoreo en tiempo real.
+   - Detectan desviaciones en parámetros críticos.
+
+4. **Sistema de alarmas**
+   - Actúa como mecanismo de seguridad.
+   - Permite respuesta inmediata ante fallas.
+
+---
+
+##  9. Conclusiones
+
+La práctica permitió comprender de manera integral el funcionamiento de la máquina de anestesia y su importancia dentro del entorno clínico. Se evidenció que este equipo no solo administra gases anestésicos, sino que también cumple funciones críticas de ventilación y monitoreo, siendo un elemento esencial para la seguridad del paciente.
+
+Asimismo, se concluye que la mayoría de los riesgos asociados al uso de este tipo de equipos están relacionados con errores humanos, fallas en el mantenimiento o una incorrecta configuración de parámetros. Por ello, el papel del ingeniero biomédico resulta fundamental, tanto en la gestión tecnológica como en la implementación de protocolos de seguridad que garanticen el correcto funcionamiento del equipo.
+
+---
+
+##  10. Preguntas de Discusión
+
+###  1. Anestésicos más utilizados
+
+- **Sevoflurano:** agente inhalatorio de rápida acción y recuperación, ampliamente utilizado en inducción y mantenimiento de anestesia.  
+- **Isoflurano:** anestésico volátil con buena estabilidad, utilizado en procedimientos prolongados.  
+- **Propofol:** anestésico intravenoso que produce inducción rápida y controlada de la anestesia.  
+
+---
+
+###  2. Diferencias entre WATO EX-20 y WATO EX-35
+
+- **Nivel de automatización:** el modelo EX-35 presenta mayor automatización en procesos de ventilación y control.  
+- **Monitoreo:** el EX-35 incorpora sistemas más avanzados de monitoreo de parámetros respiratorios y de gases.  
+- **Interfaz de usuario:** el EX-35 cuenta con una interfaz más moderna, intuitiva y digitalizada.  
+- **Capacidades clínicas:** el EX-35 ofrece mayor precisión en el control de ventilación y soporte para modos más avanzados.  
+
+---
+###  3. ¿ La máquina de anestesia WATO-EX-20 tiene bomba de infusión?
+
+La máquina de anestesia WATO EX-20 no cuenta con una bomba de infusión integrada, ya que la administración de anestésicos se realiza principalmente mediante vaporizadores de tipo bypass variable. En caso de requerir anestesia intravenosa, se utilizan bombas de infusión externas que permiten el control preciso de la dosis administrada al paciente.
+
+---
+##  11. Bibliografía
+
+American Society of Anesthesiologists. (2020). *Standards for basic anesthetic monitoring*. 
+
+Butterworth, J. F., Mackey, D. C., & Wasnick, J. D. (2018). *Morgan & Mikhail’s clinical anesthesiology* (6th ed.). McGraw-Hill Education.  
+
+Dorsch, J. A., & Dorsch, S. E. (2014). *Understanding anesthesia equipment* (5th ed.). Lippincott Williams & Wilkins.  
+
+ECRI Institute. (2021). *Anesthesia systems: Safety and maintenance guidelines*.  
+
+GE Healthcare. (n.d.). *Anesthesia systems: User manuals and technical documentation*.  
+
+Miller, R. D. (2015). *Miller’s anesthesia* (8th ed.). Elsevier.  
+
+Mindray. (n.d.). *WATO EX-20 anesthesia machine: Operator’s manual*.  
+
+World Health Organization. (2009). *WHO guidelines for safe surgery*. WHO Press.  
+
+World Health Organization. (2010). *Technical specifications for oxygen concentrators*. WHO Press.  
