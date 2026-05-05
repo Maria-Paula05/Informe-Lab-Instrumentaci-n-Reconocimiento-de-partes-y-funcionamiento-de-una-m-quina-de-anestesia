@@ -456,7 +456,7 @@ Mantiene el aire dentro de los pulmones por un breve tiempo al final de la inspi
 
 ### ✔ Partes de la máquina
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/d59ece78-c720-4f4e-83bc-cd592111411a" />
+<img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/d59ece78-c720-4f4e-83bc-cd592111411a" />
 Figura 1: Maquina de anestesia.
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/59ae598d-1088-442a-a0f5-e4827f5b46e0" />
