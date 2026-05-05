@@ -559,6 +559,7 @@ Permitir la incorporación de vaporizadores al sistema.
 
 **Explicación:**  
 En este espacio se instalan dispositivos que convierten anestésicos líquidos en vapor, los cuales se mezclan con los gases para inducir anestesia.
+
 ---
 ### Preguntas
 
@@ -647,61 +648,6 @@ El sistema de presión negativa se utiliza principalmente en la evacuación de g
 - Reduce contaminación ambiental  
 - Previene exposición crónica a anestésicos  
 
-
-##  6. Procedimiento
-
-1. Observación de la máquina WATO EX-20  
-2. Identificación de componentes  
-3. Revisión del manual  
-4. Análisis de funcionamiento  
-
----
-
-##  7. Resultados
-
-- Identificación de módulos principales  
-- Comprensión del funcionamiento  
-- Reconocimiento de alarmas y fallas  
-
----
-
-##  8. Análisis de Resultados
-
-###  Fallas comunes
-
-- Fugas de gas  
-- Sensores defectuosos  
-- Problemas de ventilación  
-- Error humano  
-
-###  Subsistemas críticos
-
-1. Sistema de gases  
-2. Ventilador  
-3. Sensores  
-4. Alarmas  
-
----
-
-## 9. Conclusiones
-
-La práctica permitió comprender la importancia de la máquina de anestesia en procedimientos clínicos. Se evidenció que muchas fallas se deben a errores humanos o falta de mantenimiento, resaltando la importancia del ingeniero biomédico en la seguridad del paciente.
-
----
-
-##  10. Preguntas de Discusión
-
-**1. Anestésicos más usados:**
-- Sevoflurano  
-- Isoflurano  
-- Propofol  
-
-**2. Diferencias EX-20 vs EX-35:**
-- Mayor automatización  
-- Mejor monitoreo  
-- Interfaz más avanzada  
-
----
 ##  6. Procedimiento
 
 Durante la práctica de laboratorio se llevó a cabo un análisis estructurado de la máquina de anestesia modelo WATO EX-20, con el objetivo de comprender su funcionamiento, identificar sus componentes principales y evaluar su importancia en la seguridad del paciente.
