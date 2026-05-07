@@ -675,13 +675,17 @@ Durante la práctica de laboratorio se llevó a cabo un análisis estructurado d
 
 ##  7. Resultados
 
-Como resultado de la práctica, se obtuvieron los siguientes hallazgos:
+Durante la práctica de laboratorio se logró reconocer de manera detallada la estructura general y el funcionamiento de la máquina de anestesia WATO EX-20, identificando sus principales componentes y relacionándolos con su función dentro del sistema anestésico.
 
-- Se logró la **identificación completa de los módulos principales** de la máquina de anestesia.
-- Se comprendió el **flujo funcional del sistema**, desde el suministro de gases hasta la ventilación del paciente.
-- Se reconocieron los **principales modos de ventilación** y su aplicación clínica.
-- Se identificaron las **alarmas del sistema** y su importancia en la detección de fallas.
-- Se evidenció la relación entre los parámetros de control (flujo, presión, volumen) y la seguridad del paciente.
+En primer lugar, se identificaron los módulos principales del equipo, entre ellos el sistema de suministro de gases, los flujómetros, el vaporizador, el sistema respiratorio, la bolsa de reinhalación, el absorbedor de CO₂, los puertos de entrada de gases médicos, el ventilador y los elementos de monitoreo. Esta identificación permitió comprender que la máquina de anestesia funciona como un sistema integrado, en el cual cada componente cumple una función específica para garantizar la administración segura de gases anestésicos y la ventilación adecuada del paciente.
+
+Asimismo, se comprendió el recorrido funcional de los gases dentro del equipo, desde su ingreso por la red hospitalaria o cilindros de alta presión, pasando por los reguladores, flujómetros y vaporizadores, hasta llegar al paciente mediante el circuito respiratorio. También se reconoció la importancia del absorbedor de CO₂, el cual permite eliminar el dióxido de carbono exhalado y favorece la reutilización parcial de gases en sistemas cerrados o semicerrados.
+
+Otro resultado relevante fue el reconocimiento de los modos y parámetros ventilatorios disponibles en el equipo. Se analizaron variables como volumen tidal, frecuencia respiratoria, presión inspiratoria, relación inspiración-espiración y PEEP, evidenciando que estos parámetros deben ajustarse de acuerdo con las condiciones clínicas del paciente. Además, se identificó la función de la pausa inspiratoria como herramienta útil para evaluar la mecánica pulmonar y mejorar el control de la ventilación.
+
+También se reconoció la importancia de los sistemas de alarma y seguridad, los cuales permiten detectar condiciones anormales como fallas en el suministro eléctrico, uso de batería, fugas en el sistema, baja presión de gases, alteraciones en la concentración de oxígeno o problemas en la ventilación. Estos mecanismos son fundamentales para prevenir eventos críticos y garantizar una respuesta oportuna por parte del personal médico o técnico.
+
+Finalmente, se evidenció que la seguridad del paciente depende directamente de la correcta interacción entre los parámetros de flujo, presión, volumen y concentración de gases. Por esta razón, el mantenimiento preventivo, la verificación de fugas, el control del estado del absorbedor de CO₂, la revisión del sensor de oxígeno y la adecuada configuración del ventilador son procedimientos esenciales para asegurar el funcionamiento confiable de la máquina de anestesia.
 
 ---
 
