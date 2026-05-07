@@ -750,6 +750,8 @@ Asimismo, se concluye que la mayoría de los riesgos asociados al uso de este ti
 ---
 ###  3. ¿ La máquina de anestesia WATO-EX-20 tiene bomba de infusión?
 
+¿QUE TIPO DE BOMBA DE INFUSIÓN?
+
 La máquina de anestesia WATO EX-20 no cuenta con una bomba de infusión integrada, ya que la administración de anestésicos se realiza principalmente mediante vaporizadores de tipo bypass variable. En caso de requerir anestesia intravenosa, se utilizan bombas de infusión externas que permiten el control preciso de la dosis administrada al paciente.
 
 ---
