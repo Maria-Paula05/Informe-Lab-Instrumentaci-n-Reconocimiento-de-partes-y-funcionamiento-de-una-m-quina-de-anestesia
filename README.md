@@ -6,13 +6,15 @@ Jhonatan David Guevara, Juan Pablo Díaz, María Paula Fernández.
 
 ##  1. Introducción
 
-Las máquinas de anestesia constituyen uno de los equipos más críticos en el entorno quirúrgico moderno, ya que permiten la administración controlada de agentes anestésicos y el mantenimiento de funciones vitales durante procedimientos médicos. Estos sistemas integran múltiples subsistemas, incluyendo el suministro de gases médicos, vaporizadores, ventilación mecánica y monitoreo del paciente, con el fin de garantizar una anestesia segura y eficaz.
+Las máquinas de anestesia constituyen uno de los equipos más críticos en el entorno quirúrgico moderno, ya que permiten la administración controlada de agentes anestésicos y el mantenimiento de funciones vitales durante procedimientos médicos. Estos sistemas integran múltiples subsistemas, incluyendo el suministro de gases médicos, vaporizadores, ventilación mecánica, circuitos respiratorios, alarmas de seguridad y monitoreo del paciente, con el fin de garantizar una anestesia segura y eficaz (Dorsch & Dorsch, 2014; Miller, 2015).
 
-El principio de funcionamiento de una máquina de anestesia se basa en la mezcla precisa de gases como oxígeno, aire y agentes anestésicos volátiles, los cuales son regulados mediante dispositivos especializados que controlan tanto la concentración como el flujo. Además, incorporan mecanismos de seguridad diseñados para prevenir fallos críticos, tales como la administración incorrecta de gases o la pérdida de presión en el sistema.
+El principio de funcionamiento de una máquina de anestesia se basa en la mezcla precisa de gases como oxígeno, aire medicinal y, en algunos casos, óxido nitroso, junto con agentes anestésicos volátiles administrados mediante vaporizadores. Estos componentes permiten controlar tanto el flujo como la concentración del anestésico suministrado al paciente. Además, las máquinas incorporan mecanismos de seguridad diseñados para prevenir fallos críticos, como la administración de mezclas hipóxicas, pérdidas de presión, fallos en el suministro de gases o desconexiones del circuito respiratorio (Butterworth et al., 2018; Dorsch & Dorsch, 2014; ECRI Institute, 2021).
 
-En la actualidad, equipos desarrollados por fabricantes como GE Healthcare y Mindray han evolucionado hacia sistemas altamente automatizados que integran ventiladores avanzados, sensores y alarmas inteligentes, permitiendo una monitorización continua en tiempo real. Esta evolución tecnológica ha incrementado significativamente la precisión y seguridad en la administración de anestesia.
+En la práctica clínica, el uso seguro de estos equipos requiere una monitorización continua del paciente, especialmente de variables como oxigenación, ventilación, circulación y temperatura. Por esta razón, los estándares de monitoreo anestésico establecen que durante todo procedimiento bajo anestesia debe mantenerse una vigilancia constante de las funciones fisiológicas esenciales del paciente (American Society of Anesthesiologists, 2020). De igual forma, la Organización Mundial de la Salud resalta la importancia de la seguridad quirúrgica y del uso adecuado de tecnologías biomédicas para reducir riesgos durante los procedimientos operatorios (World Health Organization, 2009).
 
-Desde la perspectiva de la ingeniería biomédica, el estudio de estas máquinas es fundamental, ya que involucra conocimientos en electrónica, control de sistemas y seguridad clínica. Comprender su funcionamiento permite optimizar su uso y contribuir al mantenimiento preventivo, reduciendo riesgos en el entorno hospitalario.
+En la actualidad, equipos desarrollados por fabricantes como GE Healthcare y Mindray han evolucionado hacia estaciones de anestesia más automatizadas, integrando ventiladores avanzados, sensores, alarmas inteligentes, pantallas de monitoreo y herramientas de control en tiempo real. Estos avances permiten mejorar la precisión en la administración de gases anestésicos y fortalecer la seguridad del paciente durante el acto quirúrgico (GE Healthcare, n.d.; Mindray, n.d.).
+
+Desde la perspectiva de la ingeniería biomédica, el estudio de las máquinas de anestesia es fundamental, ya que involucra conocimientos de electrónica, neumática, control de sistemas, ventilación mecánica, mantenimiento preventivo y seguridad clínica. Comprender su funcionamiento permite optimizar su uso, identificar posibles fallas, apoyar los procesos de mantenimiento hospitalario y reducir riesgos asociados al uso de equipos críticos en salas de cirugía (Dorsch & Dorsch, 2014; ECRI Institute, 2021).
 
 ---
 
@@ -750,27 +752,49 @@ Asimismo, se concluye que la mayoría de los riesgos asociados al uso de este ti
 ---
 ###  3. ¿ La máquina de anestesia WATO-EX-20 tiene bomba de infusión?
 
-¿QUE TIPO DE BOMBA DE INFUSIÓN?
+Normalas máquinas de anestesia normalmente no incorporan una bomba de infusión como componente principal integrado, ya que su función central es administrar gases médicos, agentes anestésicos volátiles y ventilación mecánica. Sin embargo, durante los procedimientos anestésicos suelen utilizarse bombas externas, especialmente bombas de jeringa, para administrar fármacos intravenosos como propofol, remifentanilo, opioides, relajantes neuromusculares o medicamentos vasoactivos. Este tipo de bomba permite una administración precisa y continua de medicamentos, por lo que es común en anestesia total intravenosa y en el soporte farmacológico intraoperatorio (Butterworth et al., 2018; Miller, 2015; Dorsch & Dorsch, 2014).
+La bomba más común que se usa junto a una máquina de anestesia es la:
 
-La máquina de anestesia WATO EX-20 no cuenta con una bomba de infusión integrada, ya que la administración de anestésicos se realiza principalmente mediante vaporizadores de tipo bypass variable. En caso de requerir anestesia intravenosa, se utilizan bombas de infusión externas que permiten el control preciso de la dosis administrada al paciente.
+Bomba de jeringa o syringe pump:
+	​
+<img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/f1737626-2407-49e8-9c7d-be7d0eaae0dc" />
+
+<p align="center"><em>Figura 9. Bomba de infusión de jeringa.</em></p>
+
+Esta se utiliza para administrar medicamentos como:
+
+Propofol.
+Remifentanilo.
+Fentanilo.
+Dexmedetomidina.
+Vasopresores.
+Relajantes neuromusculares.
+
+También puede usarse una:
+
+Bomba de infusion volumetrica:
+<img width="197" height="256" alt="image" src="https://github.com/user-attachments/assets/5b477d42-2393-48ed-a6f3-01ccf419c8b5" />
+	​<p align="center"><em>Figura 10. Bomba de infusión volumétrica.</em></p>
+ 
+Pero esta es más común para líquidos intravenosos, soluciones, mantenimiento de fluidos o medicamentos que requieren mayores volúmenes.
 
 ---
 ##  11. Bibliografía
 
-American Society of Anesthesiologists. (2020). *Standards for basic anesthetic monitoring*. 
+American Society of Anesthesiologists. (2020). Standards for basic anesthetic monitoring. La página oficial de ASA reúne sus estándares de monitoreo anestésico y parámetros de práctica; la versión oficial actualmente disponible aparece como documento de estándares de monitoreo básico.
 
-Butterworth, J. F., Mackey, D. C., & Wasnick, J. D. (2018). *Morgan & Mikhail’s clinical anesthesiology* (6th ed.). McGraw-Hill Education.  
+Butterworth, J. F., Mackey, D. C., & Wasnick, J. D. (2018). Morgan & Mikhail’s clinical anesthesiology (6th ed.). McGraw-Hill Education.
 
-Dorsch, J. A., & Dorsch, S. E. (2014). *Understanding anesthesia equipment* (5th ed.). Lippincott Williams & Wilkins.  
+Dorsch, J. A., & Dorsch, S. E. (2014). Understanding anesthesia equipment (5th ed.). Lippincott Williams & Wilkins.
 
-ECRI Institute. (2021). *Anesthesia systems: Safety and maintenance guidelines*.  
+ECRI Institute. (2021). Anesthesia systems: Safety and maintenance guidelines.
 
-GE Healthcare. (n.d.). *Anesthesia systems: User manuals and technical documentation*.  
+GE Healthcare. (n.d.). Anesthesia systems: User manuals and technical documentation. GE Healthcare cuenta con una biblioteca oficial de documentación técnica, manuales de usuario y documentación de soporte para sus equipos médicos.
 
-Miller, R. D. (2015). *Miller’s anesthesia* (8th ed.). Elsevier.  
+Miller, R. D. (2015). Miller’s anesthesia (8th ed.). Elsevier.
 
-Mindray. (n.d.). *WATO EX-20 anesthesia machine: Operator’s manual*.  
+Mindray. (n.d.). WATO EX-20 anesthesia machine: Operator’s manual. Mindray dispone de una biblioteca técnica con manuales de operador y servicio para sus equipos médicos, incluyendo documentación de máquinas de anestesia.
 
-World Health Organization. (2009). *WHO guidelines for safe surgery*. WHO Press.  
+World Health Organization. (2009). WHO guidelines for safe surgery. WHO Press. La guía de cirugía segura de la OMS incluye recomendaciones relacionadas con la seguridad anestésica, monitoreo y prevención de eventos adversos durante procedimientos quirúrgicos.
 
-World Health Organization. (2010). *Technical specifications for oxygen concentrators*. WHO Press.  
+World Health Organization. (2010). Technical specifications for oxygen concentrators. WHO Press.
